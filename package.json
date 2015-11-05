@@ -1,0 +1,18 @@
+{
+  "name": "message-dispatcher",
+  "version": "1.0.0",
+  "description": "Dispatch messages like requests to other applications or modules listening.",
+  "main": "MessageDispatcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "message",
+    "dispatcher"
+  ],
+  "author": "Bruno Orlandi",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.65.0"
+  }
+}
